@@ -79,3 +79,19 @@ body {
 .locdivclue {
     margin-left: 27%;
 }
+
+.form .map {
+    display: none;
+}
+
+.cluesdiv {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #fff4fc;
+}
+
+.cluediv {
+    padding: 5px;
+    margin-top: 20px;
+    background: #ffffff;
+}
